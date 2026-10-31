@@ -1,0 +1,6 @@
+{
+  "name": "Hành Trang Điểm 10 - Ôn Tập Toán & Tiếng Việt Lớp 5",
+  "description": "Trang web ôn tập kiến thức Giữa Học Kỳ I môn Toán và Tiếng Việt lớp 5 sinh động, bám sát chương trình, luyện tập không giới hạn với chuẩn trình bày tiểu học, giải thích chi tiết và động viên khen thưởng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
